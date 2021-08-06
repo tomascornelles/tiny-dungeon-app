@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "firebase": "^8.8.1"
+  },
+  "devDependencies": {}
+}
